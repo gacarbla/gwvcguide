@@ -8,7 +8,7 @@ authors:
     avatar: ../../../../profiles/gacarbla.jpg
 category: []
 tags: [voicechats, infracciones, sanciones]
-date: 
+date: 2023-08-22
 ---
 # Aislamiento
 
