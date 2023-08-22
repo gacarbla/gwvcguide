@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: http://localhost:5000/
+branding:
+  title: Guía de moderación de canales de voz
+  label: 
+  logo:
+links:
+- text: Guía oficial
+  link: https://mateo.ltd/moderacion/
+footer:
+  copyright: "&copy; Copyright {{ year }}. Todos los derechos reservados."
