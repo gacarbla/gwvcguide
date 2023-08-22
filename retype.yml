@@ -2,9 +2,9 @@ input: .
 output: .retype
 url: http://localhost:5000/
 branding:
-  title: Guía de moderación de canales de voz
-  label: 
-  logo:
+  title: Moderación de canales de voz
+  label: v0.4
+  logo: 
 links:
 - text: Guía oficial
   link: https://mateo.ltd/moderacion/
