@@ -1,9 +1,6 @@
 ---
 label: Casos
 authors:
-  - name: gacarbla
-    link: https://discord.com/users/643575943289634836
-    avatar: ../../profiles/gacarbla.jpg
 category: []
 tags: []
 date: 
@@ -16,7 +13,7 @@ Tal y como su nombre indica, es una guía, no un manual.
 !!!
 
 !!!info Seguimos trabajando en esto
-Actualmente `1` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `D`.
+Actualmente `3` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `E`.
 !!!
 
 ### A
@@ -29,11 +26,11 @@ Si lo deseas, puedes esperar un tiempo y verificar si vuelven a conectarse para 
 ==- Acoso a usuarios
 El acoso a los usuarios del servidor es un comportamiento que como moderadores y como personas, no podemos permitir. Éstas actitudes deben ser fuertemente penalizadas por el equipo y se hará uso de todas las herramientas posibles para identificarlo. Entre estas medidas, podemos optar por revisar los registros de acceso y salida de los canales de voz para poder identificar en qué momentos dos usuarios han coincidido en un canal de voz y quién de ellos es el primero en acceder al canal en cada caso.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./acoso_a_usuarios/acoso_a_usuarios.md)
 ==- Amenaza a un usuario
 Cuando una persona amenaza a otra, no solo está infringiendo varias de nuestras normas y las de Discord, sino que también está cometiendo un delito. Es de vital importancia abordar este comportamiento desde el principio para garantizar el bienestar y la seguridad de nuestros usuarios.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./amenaza_a_un_usuario/amenaza_a_un_usuario.md)
 ==- Audios molestos
 En ocasiones, algunos usuarios reproducen audios que resultan molestos. Es crucial no confundir esto con ruidos molestos, ya que aplicaremos un criterio diferente, aunque la sanción y el procedimiento sean bastante similares.
 
@@ -77,11 +74,12 @@ La divulgación de información personal de otras personas puede ser algo comple
 
 ### E
 ==- Evasión de reject
-*Seguimos trabajando en esto...*
+
+Cuando un usuario bloquea el acceso de alguien a su canal de voz, se denomina "reject". El usuario afectado puede evitarlo al salir del servidor y volver a entrar. En estos casos, al eludir este "reject", después de una advertencia inicial, si continúa, aplicaremos el correspondiente "temp-ban".
 
 [!button variant="dark" text="Más información"]()
 ==- Evasión de sanción
-*Seguimos trabajando en esto...*
+Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a ingresar al servidor para quitarse un mute, está desafiando la autoridad de los moderadores y será castigado de manera significativa con la prohibición permanente de volver a ingresar al servidor.
 
 [!button variant="dark" text="Más información"]()
 ==-
