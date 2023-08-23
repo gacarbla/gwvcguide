@@ -4,7 +4,7 @@ order: 70
 icon: alert
 authors:
   - name: gacarbla
-    email: gacarbla@gacarbla.es
+    link: https://discord.com/users/643575943289634836
     avatar: ../../../../profiles/gacarbla.jpg
 category: []
 tags: [voicechats, infracciones, sanciones]

@@ -3,7 +3,7 @@ output: .retype
 url: http://localhost:5000/
 branding:
   title: Moderación de canales de voz
-  label: v0.4
+  label: v0.5.D
   logo: 
 links:
 - text: Guía oficial
