@@ -13,7 +13,7 @@ Tal y como su nombre indica, es una guía, no un manual.
 !!!
 
 !!!info Seguimos trabajando en esto
-Actualmente `3` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `E`.
+Actualmente `5` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `F`.
 !!!
 
 ### A
@@ -36,14 +36,14 @@ En ocasiones, algunos usuarios reproducen audios que resultan molestos. Es cruci
 
 Consideramos que los audios son molestos cuando interrumpen la conversación, están saturados de sonido o desvían la temática original del canal. En estos casos, intentaremos detener su reproducción mediante diálogo o advertencias. Es común encontrarnos con situaciones en las que los usuarios evitan a los moderadores para continuar causando molestias al resto de los usuarios.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./audios_molestos/audios_molestos.md)
 ==-
 
 ### B
 ==- Bug ensordecido
 Algunos usuarios están utilizando el bug de FakeDeafen, que hace que aparezca que están ensordecidos aunque no lo estén. Esto no solo complica la labor de moderación, sino que también infringe los Términos de Servicio al aprovechar un error de Discord en su beneficio personal. Deberemos pedirles que dejen de realizar esta acción y, si no la detienen después de la primera advertencia, aplicaremos una sanción.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./bug_ensordecido/bug_ensordecido.md)
 ==-
 
 ### C
@@ -86,7 +86,7 @@ Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a
 
 ### F
 ==- Faltas de respeto
-*Seguimos trabajando en esto...*
+En ocasiones, un usuario puede faltarle el respeto a otro por diversos motivos. Como moderadores, es nuestra responsabilidad poner fin a este tipo de comportamientos y asegurar que todos los usuarios puedan permanecer en el servidor sin temor a ser criticados, acusados o tratados con falta de respeto.
 
 [!button variant="dark" text="Más información"]()
 ==-
