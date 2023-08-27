@@ -13,7 +13,7 @@ Tal y como su nombre indica, es una guía, no un manual.
 !!!
 
 !!!info Seguimos trabajando en esto
-Actualmente `5` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `F`.
+Actualmente `12` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `H`.
 !!!
 
 ### A
@@ -50,26 +50,26 @@ Algunos usuarios están utilizando el bug de FakeDeafen, que hace que aparezca q
 ==- Causar interrupciones constantes
 Algunos usuarios en los canales de voz están causando interrupciones constantes en las conversaciones de otros. Es necesario gestionar esta conducta. Comenzaremos solicitando a través de un diálogo que respeten los turnos de palabra. Sin embargo, si estas peticiones no tienen el efecto deseado, procederemos con las advertencias correspondientes (1 o 2), seguidas de una sanción en forma de mute.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./causar_interrupciones_constantes/causar_interrupciones_constantes.md)
 ==- Comportamiento tóxico
 Cuando un usuario mantiene un comportamiento activamente tóxico, como difamar a otros usuarios, el equipo debe intervenir para detener esta conducta a tiempo y fomentar un entorno lo más amigable posible en el voicechat.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./comportamiento_tóxico/comportamiento_tóxico.md)
 ==-
 
 ### D
 ==- Demasiados usuarios en un mismo canal
 De vez en cuando, en los canales personalizados nos encontramos con un exceso de usuarios. Si esto sucede, entraremos al canal y pediremos que se reduzca el límite de usuarios a un número que pueda ser moderado (generalmente entre 10 y 20, según lo determine el moderador). Les informaremos que si no se reduce el número actual de usuarios en el canal en un plazo de X minutos, determinado por el moderador, el canal será eliminado.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./demasiados_usuarios_en_un_mismo_canal/demasiados_usuarios_en_un_mismo_canal.md)
 ==- Descontrol en el canal
 No es infrecuente que en canales personalizados con más de 7 usuarios se produzca cierto nivel de desorden, y el propietario del canal, al no poder manejarlo, solicite ayuda al equipo de moderación. Si el número de usuarios supera los 10, el primer paso será reducirlos hasta restablecer un entorno controlado o mantenerse por debajo de 10 (sin contar al moderador). Si el número de usuarios no supera los 10 y el descontrol persiste en el canal, será necesario tomar las medidas adecuadas para recuperar el control, comenzando con advertencias y aplicando sanciones si es necesario. En el caso de que esta situación ocurra en un canal público, se omitirá el paso de reducción de usuarios.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./descontrol_en_el_canal/)
 ==- Divulgación de información personal
 La divulgación de información personal de otras personas puede ser algo completamente inofensivo o incluso un ataque directo contra la persona afectada. El moderador deberá analizar la situación y determinar si la información divulgada compromete la seguridad de algún usuario. Si lo hace, se deben tomar las medidas necesarias para detener esta divulgación.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./divulgación_de_información_personal/divulgación_de_información_personal.md)
 ==-
 
 ### E
@@ -77,11 +77,11 @@ La divulgación de información personal de otras personas puede ser algo comple
 
 Cuando un usuario bloquea el acceso de alguien a su canal de voz, se denomina "reject". El usuario afectado puede evitarlo al salir del servidor y volver a entrar. En estos casos, al eludir este "reject", después de una advertencia inicial, si continúa, aplicaremos el correspondiente "temp-ban".
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./evasión_de_reject/evasión_de_reject.md)
 ==- Evasión de sanción
 Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a ingresar al servidor para quitarse un mute, está desafiando la autoridad de los moderadores y será castigado de manera significativa con la prohibición permanente de volver a ingresar al servidor.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./evasión_de_sanción/evasión_de_sanción.md)
 ==-
 
 ### F
@@ -93,11 +93,11 @@ En ocasiones, un usuario puede faltarle el respeto a otro por diversos motivos. 
 
 ### H
 ==- Huída de los moderadores
-*Seguimos trabajando en esto...*
+Algunos usuarios huyen de los moderadores porque les dan miedo, porque les caen mal o simplemente porque quieren poder cometer actos contrarios a las normas sin poder ser supervisados. Te contamos un poco más a cerca de cómo puedes pillar a estos usuarios en los canales de voz.
 
 [!button variant="dark" text="Más información"]()
 ==- Humor negro
-*Seguimos trabajando en esto...*
+Es recurrente el humor negro en una comunidad digital, pero también muy importante saber los límites para éste y cómo actuar si nos encontramos con ciertos chistes que rozan la falta de respeto, aunque teniendo siempre en cuenta que evitaremos en la medida de lo posible llevar a cabo advertencias o sanciones, pues los usuarios estarán intentando pasar el rato, no intentan molestar.
 
 [!button variant="dark" text="Más información"]()
 ==-
@@ -136,6 +136,11 @@ En ocasiones, un usuario puede faltarle el respeto a otro por diversos motivos. 
 ==-
 
 ### R
+==- Reportes falsos a usuarios
+*Seguimos trabajando en esto...*
+
+[!button variant="dark" text="Un único usuario"]()
+[!button variant="dark" text="Un grupo de usuarios"]()
 ==- Retransmisión de contenido audiovisual NSFW
 *Seguimos trabajando en esto...*
 

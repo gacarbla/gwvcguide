@@ -11,20 +11,20 @@ visibility: hidden
 ---
 
 # Bug ensordecido
-Algunos usuarios hacen uso de un bug conocido por mostrar al resto de integrantes del canal que se encuentran ensordecidos cuando en realidad pueden escuchar y/o hablar. Incluso pueden utilizar scripts como el [fakemute](https://github.com/mateoltd/fake-mute) para forzar esta característica.
-En las dos situaciones procederemos de la misma manera.
+
+Algunos usuarios están aprovechando un error conocido que muestra a otros miembros del canal que están ensordecidos cuando en realidad pueden escuchar y/o hablar. Incluso pueden utilizar scripts como [fakemute](https://github.com/mateoltd/fake-mute) para activar esta característica de manera forzada. En ambas situaciones, tomaremos medidas de manera similar.
 
 ## Actuación
-Luego de propiciar la correspondiente advertencia si...
+Después de dar la advertencia correspondiente si...
 
-**...el usuario está en ordenador:**<br>
-Se le solicitará que use la combinación de teclas `Control`+`R` para que su cliente (Si resumimos, su aplicación de Discord ejecutada) se reinicie.
+**...el usuario está en una computadora:**<br>
+Le pediremos que presione la combinación de teclas `Control`+`R` para reiniciar su cliente (es decir, la aplicación de Discord que está ejecutando).
 
 **...el usuario está en otro dispositivo:**<br>
-Le pediremos que cierre la aplicación de Discord por completo y la vuelva a abrir, reiniciando así el cliente y pudiendo reingresar al canal.
+Le solicitaremos que cierre por completo la aplicación de Discord y luego la vuelva a abrir. Esto reiniciará el cliente y le permitirá volver a ingresar al canal.
 
 ## Persistencia
-Si el usuario persistiese con el uso de este bug podremos aplicar una sanción tipo ban por el uso abusivo a conveniencia de bugs de la plataforma.
+Si el usuario sigue abusando de este error, consideraremos aplicar una sanción tipo ban debido al uso inapropiado de los errores de la plataforma.
 
 ## Ejemplo de sanción
 +++ Ejemplo
@@ -35,3 +35,7 @@ Uso a conveniencia de bugs de Discord pese a la advertencia previa.
 > ¿Cree que su sanción es injusta?
 > [Haga click aquí aquí](https://discord.gg/8X3GKQsxJh)
 ```
+
+!!!warning ¡CUIDADO!
+Estos casos son sumamente difíciles de identificar. Pueden notarse al observar la lista de miembros conectados al canal en la lista de canales, ya que es el único punto en el que, a pesar de que el usuario esté aprovechando el error, se mostrará el indicador circular verde de "Hablando" aunque esté ensordecido o silenciado.
+!!!
