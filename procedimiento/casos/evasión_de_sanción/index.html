@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.2.0.746404963806">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.2.0.746473609376">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.2.0">
@@ -11,27 +11,30 @@
     <!-- Primary Meta Tags -->
     <title>Evasi&#243;n de sanci&#243;n</title>
     <meta name="title" content="Evasión de sanción">
+    <meta name="description" content="Se refiere a la acción de un usuario que intenta eludir una sanción previa, como un mute o ban, ingresando nuevamente al servidor con una cuenta...">
 
     <!-- Canonical -->
-    <link rel="canonical" href="http://localhost:5000/procedimiento/casos/evasión-de-sanción/">
+    <link rel="canonical" href="http://localhost:5000/procedimiento/casos/evasión_de_sanción/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="http://localhost:5000/procedimiento/casos/evasión-de-sanción/">
+    <meta property="og:url" content="http://localhost:5000/procedimiento/casos/evasión_de_sanción/">
     <meta property="og:title" content="Evasión de sanción">
+    <meta property="og:description" content="Se refiere a la acción de un usuario que intenta eludir una sanción previa, como un mute o ban, ingresando nuevamente al servidor con una cuenta...">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="http://localhost:5000/procedimiento/casos/evasión-de-sanción/">
+    <meta property="twitter:url" content="http://localhost:5000/procedimiento/casos/evasión_de_sanción/">
     <meta property="twitter:title" content="Evasión de sanción">
+    <meta property="twitter:description" content="Se refiere a la acción de un usuario que intenta eludir una sanción previa, como un mute o ban, ingresando nuevamente al servidor con una cuenta...">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../resources/css/retype.css?v=3.2.0.746404963806" rel="stylesheet">
+    <link href="../../../resources/css/retype.css?v=3.2.0.746473609376" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.2.0.746404963806" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.2.0.746473609376" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../../resources/js/retype.js?v=3.2.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.2.0.746404963806" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.2.0.746473609376" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -48,7 +51,7 @@
                     <div class="flex items-center px-2 md:px-6">
                         <a id="docs-site-logo" href="../../../" class="flex items-center leading-snug text-xl">
                             <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">Moderación de canales de voz</span>
-                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v0.5.F</span>
+                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v0.5.H</span>
                     </div>
         
                     <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
@@ -179,6 +182,36 @@
     </div>
 </div>
 
+<p>Se refiere a la acción de un usuario que intenta eludir una sanción previa, como un mute o ban, ingresando nuevamente al servidor con una cuenta diferente u otros medios por los que puede hacer uso de servicios restringidos por la sanción. Como ejemplo típico tenemos el ingreso con multicuentas para la evasión del ban o el reingreso al servidor para le evasión del mute.</p>
+<p>Estos casos son simples, actuaremos con una sanción tipo ban contundente, inmediata después de verificar que el usuario realmente ha evadido una sanción.</p>
+<doc-anchor-target id="formato">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#formato">#</doc-anchor-trigger>
+        <span>Formato</span>
+    </h2>
+</doc-anchor-target>
+<doc-tabs>
+<doc-tab v-cloak id="mute-vc">
+<template #title>Mute VC</template>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">u!ban &lt;id&gt; **INCUMPLIEMIENTO DE LAS TOS**
+Reingreso al servidor para la evasión de una sanción tipo `MUTE`
+
+&gt; ¿Cree que su sanción es injusta?
+&gt; [Haga click aquí para apelar](https://discord.gg/8X3GKQsxJh)</code></pre>
+</doc-codeblock></div>
+</doc-tab>
+<doc-tab v-cloak id="ban">
+<template #title>Ban</template>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">u!ban &lt;id&gt; **INCUMPLIEMIENTO DE LAS TOS**
+Ingreso al servidor por medio de multicuentas para la evasión de una sanción tipo `BAN`
+
+&gt; ¿Cree que su sanción es injusta?
+&gt; [Haga click aquí para apelar](https://discord.gg/8X3GKQsxJh)</code></pre>
+</doc-codeblock></div>
+</doc-tab>
+</doc-tabs>
 
                                 <div class="flex items-center mt-6 mb-6 clear-both">
                                     <span>

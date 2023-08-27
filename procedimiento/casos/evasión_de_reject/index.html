@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.2.0.746404963806">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.2.0.746473609376">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.2.0">
@@ -11,6 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>Evasi&#243;n de reject</title>
     <meta name="title" content="Evasión de reject">
+    <meta name="description" content="Denominamos reject al veto de acceso a un canal de voz personalizada, y ciertos usuarios lo evaden por el mismo sistema que la evasión de sanción...">
 
     <!-- Canonical -->
     <link rel="canonical" href="http://localhost:5000/procedimiento/casos/evasión_de_reject/">
@@ -19,19 +20,21 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://localhost:5000/procedimiento/casos/evasión_de_reject/">
     <meta property="og:title" content="Evasión de reject">
+    <meta property="og:description" content="Denominamos reject al veto de acceso a un canal de voz personalizada, y ciertos usuarios lo evaden por el mismo sistema que la evasión de sanción...">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="http://localhost:5000/procedimiento/casos/evasión_de_reject/">
     <meta property="twitter:title" content="Evasión de reject">
+    <meta property="twitter:description" content="Denominamos reject al veto de acceso a un canal de voz personalizada, y ciertos usuarios lo evaden por el mismo sistema que la evasión de sanción...">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../resources/css/retype.css?v=3.2.0.746404963806" rel="stylesheet">
+    <link href="../../../resources/css/retype.css?v=3.2.0.746473609376" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.2.0.746404963806" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../../resources/js/config.js?v=3.2.0.746473609376" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../../resources/js/retype.js?v=3.2.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.2.0.746404963806" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../../resources/js/lunr.js?v=3.2.0.746473609376" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -48,7 +51,7 @@
                     <div class="flex items-center px-2 md:px-6">
                         <a id="docs-site-logo" href="../../../" class="flex items-center leading-snug text-xl">
                             <span class="dark:text-white font-semibold line-clamp-1 md:line-clamp-2">Moderación de canales de voz</span>
-                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v0.5.F</span>
+                        </a><span class="hidden px-2 py-1 ml-4 text-sm font-semibold leading-none text-root-logo-label-text bg-root-logo-label-bg rounded-sm md:inline-block">v0.5.H</span>
                     </div>
         
                     <span class="hidden h-8 border-r md:inline-block dark:border-dark-650"></span>
@@ -179,6 +182,36 @@
     </div>
 </div>
 
+<p>Denominamos reject al veto de acceso a un canal de voz personalizada, y ciertos usuarios lo evaden por el mismo sistema que la evasión de sanción tipo mute (El reingreso al servidor).</p>
+<doc-anchor-target id="actuación">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#actuación">#</doc-anchor-trigger>
+        <span>Actuación</span>
+    </h2>
+</doc-anchor-target>
+<p>Verificaremos que el usuario efectivamente ha estado evadiendo este veto de acceso, y con ello, verificaremos que el propietario del canal se encuentra desconforme con esta acción por parte del usuario. Aplicaremos la correspondiente sanción tipo temp-ban. De tratarse de un acto reincidente, aplicaremos el ban sin posibilidad de apelación.</p>
+<doc-anchor-target id="formato-de-sanción">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#formato-de-sanción">#</doc-anchor-trigger>
+        <span>Formato de sanción</span>
+    </h2>
+</doc-anchor-target>
+<doc-tabs>
+<doc-tab v-cloak id="temp-ban">
+<template #title>temp-ban</template>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">u!temp-ban &lt;id&gt; 2w **Evasión de reject en los canales de voz personalizada**
+Usted ha abandonado el servidor y reingresado al mismo para evadir así el veto de acceso a uno o más canales de voz personalizada, causando así grandes molestias a los usuarios presentes en éstos.</code></pre>
+</doc-codeblock></div>
+</doc-tab>
+<doc-tab v-cloak id="ban">
+<template #title>ban</template>
+<div class="codeblock-wrapper"><doc-codeblock>
+<pre class="language-none"><code v-pre class="language-none">u!ban &lt;id&gt; **Evasión de reject en los canales de voz personalizada**
+Usted ha abandonado el servidor y reingresado al mismo para evadir así el veto de acceso a uno o más canales de voz personalizada, causando así grandes molestias a los usuarios presentes en éstos. Se suma la reincidencia en los hechos al haber sido sancionado previamente por la misma razón.</code></pre>
+</doc-codeblock></div>
+</doc-tab>
+</doc-tabs>
 
                                 <div class="flex items-center mt-6 mb-6 clear-both">
                                     <span>
