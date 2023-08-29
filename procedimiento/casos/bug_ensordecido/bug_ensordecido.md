@@ -35,7 +35,16 @@ Uso a conveniencia de bugs de Discord pese a la advertencia previa.
 > ¿Cree que su sanción es injusta?
 > [Haga click aquí aquí](https://discord.gg/8X3GKQsxJh)
 ```
++++
 
 !!!warning ¡CUIDADO!
 Estos casos son sumamente difíciles de identificar. Pueden notarse al observar la lista de miembros conectados al canal en la lista de canales, ya que es el único punto en el que, a pesar de que el usuario esté aprovechando el error, se mostrará el indicador circular verde de "Hablando" aunque esté ensordecido o silenciado.
+!!!
+
+<br><br><br>
+!!!success Contenido aprobado
+Este procedimiento ha sido aprobado el `27 AGOSTO DE 2023`.<br>
+Hasta instrucciones que indiquen lo contrario, este procedimiento es válido.
+
+Si este procedimiento ya no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este mensaje.
 !!!

@@ -37,3 +37,12 @@ Reproducción de audios molestos en los canales de voz pese a las advertencias p
 
 > Una vez el tiempo de su sanción culmine, podrá solicitar el desmuteo en un ticket en <#822611489370144808>
 ```
++++
+
+<br><br><br>
+!!!success Contenido aprobado
+Este procedimiento ha sido aprobado el `25 AGOSTO DE 2023`.<br>
+Hasta instrucciones que indiquen lo contrario, este procedimiento es válido.
+
+Si este procedimiento ya no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este mensaje.
+!!!

@@ -37,3 +37,11 @@ Divulgación de información de carácter personal sensible sin consentimiento p
 > Esta sanción no es apelable
 ```
 +++
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

@@ -46,3 +46,11 @@ Reproducción constante de ruidos molestos en los canales de voz pese a las adve
 > Podrá solicitar la retirada de su mute en <#822611489370144808> una vez el tiempo de su sanción culmine.
 ```
 +++
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

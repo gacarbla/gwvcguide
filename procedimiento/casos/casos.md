@@ -6,14 +6,15 @@ tags: []
 date: 
 ---
 # Casos variados y cómo proceder en ellos
+¿No sabes qué hacer en una situación? Se acabó ese problema.
 
-!!!warning ¡Espera ahí!
-En esta guía no se encuentran reflejadas todas las opciones posibles.<br>
-Tal y como su nombre indica, es una guía, no un manual.
+!!!warning
+En todas las páginas encontrarás un mensaje al final que indique si el procedimiento ha sido aceptado, rechazado o no ha sido revisado aún.
+Los procedimientos rechazados **NO DEBEN SEGUIRSE**, los aún no revisados deben ser consultados previamente a un superior y los aceptados pueden seguirse sin problemas.
 !!!
 
-!!!info Seguimos trabajando en esto
-Actualmente `19` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `I`.
+!!!light Seguimos trabajando en esto
+Actualmente `20` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `I`.
 !!!
 
 ### A
@@ -112,6 +113,10 @@ Ocasionalmente algunos usuarios deciden organizar eventos en los canales de voz 
 
 [!button variant="dark" text="Más información"]()
 ==-
+
+!!!danger Hasta aquí hemos llegado...
+A partir de este punto todos los artículos están incompletos o carentes de corrección.<br>Por favor, no sigas al pié de la letra los procedimientos espuestos a partir de este punto.
+!!!
 
 ### M
 ==- Menor de 13 años

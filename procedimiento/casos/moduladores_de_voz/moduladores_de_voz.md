@@ -44,3 +44,11 @@ Uso persistente y molesto de los moduladores de voz en los canales de voz públi
 > Podrá solicitar la retirada de su silencio en <#822611489370144808> una vez el tiempo de su sanción culmine.
 ```
 +++
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

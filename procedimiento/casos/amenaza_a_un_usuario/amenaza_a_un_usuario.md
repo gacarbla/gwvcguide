@@ -29,3 +29,11 @@ u!ban <id> Amenazar a usuarios del servidor atentando en contra de su seguridad 
 u!ban <id> Incumplimiento de nuestras reglas
 ```
 +++
+
+<br><br><br>
+!!!success Contenido aprobado
+Este procedimiento ha sido aprobado el `25 AGOSTO DE 2023`.<br>
+Hasta instrucciones que indiquen lo contrario, este procedimiento es válido.
+
+Si este procedimiento ya no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este mensaje.
+!!!

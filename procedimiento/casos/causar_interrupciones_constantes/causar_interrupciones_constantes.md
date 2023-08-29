@@ -29,3 +29,11 @@ Interrupciones constantes a los usuarios presentes en el canal, impidiendo la co
 > Podrá solicitar la retirada de su mute en un ticket de <#822611489370144808> una vez el tiempo culmine
 ```
 +++
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

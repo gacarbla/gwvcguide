@@ -40,3 +40,11 @@ Faltas de respeto persistentes pese a las advertencias previas:
 > Una vez que el tiempo de su sanción culmine, podrá reanudar su participación en los canales de voz en <#822611489370144808>.
 ```
 +++
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

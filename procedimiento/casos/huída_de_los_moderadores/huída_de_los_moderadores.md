@@ -33,3 +33,11 @@ Si obtienes nuevas pruebas que respalden una advertencia, podrás imponer una sa
 !!!info Sobre las multicuentas
 Puede ser sorprendente, pero no es imprescindible tener un perfil elaborado para evitar que los demás usuarios sospechen de tu cuenta. Basta con considerar la diversidad de perfiles en el servidor; si utilizas una plantilla o una idea preconcebida para crearlo, podrías caer en un estereotipo que los usuarios reconocerían fácilmente, lo que haría más sencillo detectar las cuentas alternativas.
 !!!
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

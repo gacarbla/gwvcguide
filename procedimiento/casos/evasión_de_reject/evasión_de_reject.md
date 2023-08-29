@@ -28,3 +28,11 @@ u!ban <id> **Evasión de reject en los canales de voz personalizada**
 Usted ha abandonado el servidor y reingresado al mismo para evadir así el veto de acceso a uno o más canales de voz personalizada, causando así grandes molestias a los usuarios presentes en éstos. Se suma la reincidencia en los hechos al haber sido sancionado previamente por la misma razón.
 ```
 +++
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

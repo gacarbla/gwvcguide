@@ -32,3 +32,11 @@ Ingreso al servidor por medio de multicuentas para la evasión de una sanción t
 > [Haga click aquí para apelar](https://discord.gg/8X3GKQsxJh)
 ```
 +++
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

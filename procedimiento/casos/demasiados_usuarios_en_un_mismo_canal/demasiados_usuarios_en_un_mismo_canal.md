@@ -21,4 +21,12 @@ Es altamente recomendable avisar previamente a la destrucción del canal que de 
 !!!
 
 ## Destrucción de un canal
-Para destruír un canal de voz personalizado se podrá proceder de dos maneras. La primera y más evidente, es hacer uso del permiso de getsión de canales (`MANAGE_CHANNELS`) para eliminarlo. La segunda y requerida en la mayoría de casos, será el uso del comando `/mod vc channel`, a través del cuál podremos seleccionar la opción de "Desalojar canal" para desconectar a todos los integrantes del mismo. El canal será eliminado automáticamente por el bot una vez todos los usuarios sean desconectados.
+Para destruír un canal de voz personalizado se podrá proceder de dos maneras. La primera y más evidente, es hacer uso del permiso de gestión de canales (`MANAGE_CHANNELS`) para eliminarlo. La segunda y requerida en la mayoría de casos, será el uso del comando `/mod vc channel`, a través del cuál podremos seleccionar la opción de "Desalojar canal" para desconectar a todos los integrantes del mismo. El canal será eliminado automáticamente por el bot una vez todos los usuarios sean desconectados.
+
+<br><br><br>
+!!!warning Contenido sin aprobar
+Este procedimiento aún no ha sido revisado y aprobado.<br>
+Consulte con un superior antes de seguirlo.
+
+Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
+!!!

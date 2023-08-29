@@ -27,3 +27,11 @@ Es sumamente recomendable nunca llevar a cabo este proceso en solitario. Los cas
 Seguramente necesites apoyarte en los logs de canales de voz.<br>Haz uso de todas las herramientas a tu disposición para encontrar la verdad y discute con tus compañeros de equipo la forma más adecuada de poceder con el ban.
 
 No existe un procedimiento exacto, ya que cada situación exigirá una respuesta ajustada a las circunstancias específicas.
+
+<br><br><br>
+!!!success Contenido aprobado
+Este procedimiento ha sido aprobado el `25 AGOSTO DE 2023`.<br>
+Hasta instrucciones que indiquen lo contrario, este procedimiento es válido.
+
+Si este procedimiento ya no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este mensaje.
+!!!
