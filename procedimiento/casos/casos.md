@@ -115,7 +115,7 @@ Ocasionalmente algunos usuarios deciden organizar eventos en los canales de voz 
 ==-
 
 !!!danger Hasta aquí hemos llegado...
-A partir de este punto todos los artículos están incompletos o carentes de corrección.<br>Por favor, no sigas al pié de la letra los procedimientos espuestos a partir de este punto.
+A partir de este punto todos los artículos están incompletos o carentes de corrección.<br>Por favor, no sigas al pié de la letra los procedimientos expuestos a partir de este punto.
 !!!
 
 ### M
