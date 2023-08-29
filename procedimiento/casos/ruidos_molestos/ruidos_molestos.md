@@ -6,16 +6,11 @@ authors:
     avatar: ../../../profiles/gacarbla.jpg
   - name: ChatGPT
     avatar: ../../../profiles/chatgpt.png
-category: []
-tags: [voicechats, casos]
-date: 2023-08-29
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Ruidos molestos
-
-## Introducción
-
 En los canales de voz, es esencial mantener un ambiente agradable y propicio para la comunicación. Sin embargo, a veces se pueden producir ruidos molestos que afectan negativamente la experiencia de otros usuarios. Abordaremos estas situaciones con el objetivo de garantizar un entorno cómodo para todos.
 
 ## Tipos de Ruidos Molestos
@@ -48,9 +43,6 @@ Reproducción constante de ruidos molestos en los canales de voz pese a las adve
 +++
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

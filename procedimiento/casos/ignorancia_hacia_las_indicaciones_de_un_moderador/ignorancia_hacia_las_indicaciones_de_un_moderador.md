@@ -4,11 +4,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-29
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Ignorancia hacia las indicaciones de un moderador
 En ciertas situaciones un moderador da una advertencia o recomendación a un usuario y éste no la acata. Debemos primeramente entender que somos moderadores y debemos mantener la compostura, analizar la situación y actuar de forma correcta y ordenada.
@@ -24,9 +22,6 @@ Es recomendable ver el artículo de [Acceso ](../../../procedimiento/acceso/acce
 !!!
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -5,12 +5,11 @@ authors:
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
   - name: ChatGPT
-    avatar: ../../../profiles/chatgpt.png
-category: []
-tags: [voicechats, casos]
-date: 
+    avatar: ../../../profiles/chatgpt.png 
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
+
 # Saturación del micrófono
 La saturación de micrófono puede causar molestias y dificultades en la comunicación en los canales de voz. Abordaremos las situaciones de saturación de micrófono con el objetivo de mantener un ambiente de voz claro y cómodo para todos los usuarios.
 
@@ -42,9 +41,6 @@ Saturación de micrófono persistente en los canales de voz pese a las advertenc
 +++
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

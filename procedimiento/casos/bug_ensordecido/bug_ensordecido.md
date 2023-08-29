@@ -4,11 +4,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-26
 visibility: hidden
 ---
+[!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill" corners="pill"](../../../info/contenido_aprobado/contenido_aprobado.md)
 
 # Bug ensordecido
 
@@ -42,9 +40,7 @@ Estos casos son sumamente difíciles de identificar. Pueden notarse al observar 
 !!!
 
 <br><br><br>
-!!!success Contenido aprobado
-Este procedimiento ha sido aprobado el `27 AGOSTO DE 2023`.<br>
-Hasta instrucciones que indiquen lo contrario, este procedimiento es válido.
-
-Si este procedimiento ya no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este mensaje.
-!!!
+** **
+### Historial de cambios
+`2023-08-27` [!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill"](../../../info/contenido_aprobado/contenido_aprobado.md)<br>
+`2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -19,6 +19,7 @@ Actualmente `20` página(s) de información están completas y puedes ver el res
 
 ### A
 ==- Abandono del canal con mute
+<br>
 Cuando estás emitiendo una advertencia, es altamente recomendable que silencies a los usuarios a quienes estás advirtiendo. Sin embargo, en ocasiones pueden abandonar el canal sin que les hayas quitado el mute. No te preocupes, ya que esto será responsabilidad de ellos al decidir dejar el canal durante la advertencia de un moderador.
 
 Si lo deseas, puedes esperar un tiempo y verificar si vuelven a conectarse para quitarles el mute, pero esto no es obligatorio en absoluto. En caso de que deseen que se les retire el mute, deberán abrir un ticket solicitando su levantamiento.

@@ -4,11 +4,10 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-28
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
+
 # Evasión de sanción
 Se refiere a la acción de un usuario que intenta eludir una sanción previa, como un mute o ban, ingresando nuevamente al servidor con una cuenta diferente u otros medios por los que puede hacer uso de servicios restringidos por la sanción. Como ejemplo típico tenemos el ingreso con multicuentas para la evasión del ban o el reingreso al servidor para le evasión del mute.
 
@@ -34,9 +33,6 @@ Ingreso al servidor por medio de multicuentas para la evasión de una sanción t
 +++
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

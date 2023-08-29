@@ -4,11 +4,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-29
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Huída de los moderadores
 En algunas ocasiones, cuando accedes a un canal de voz, es posible que los usuarios se sientan intimidados o controlados debido a experiencias previas que hayan tenido con otros miembros del equipo, lo que los lleva a abandonar el canal para mantener su comodidad. Sin embargo, también existe un grupo de usuarios que aprovechará esta acción como una manera de continuar infringiendo una regla.
@@ -35,9 +33,6 @@ Puede ser sorprendente, pero no es imprescindible tener un perfil elaborado para
 !!!
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

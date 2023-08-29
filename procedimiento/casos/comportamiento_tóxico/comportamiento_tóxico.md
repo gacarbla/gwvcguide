@@ -4,11 +4,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-27
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Comportamiento tóxico
 En este caso, se refiere a comportamientos que son perjudiciales, irrespetuosos o negativos hacia otros usuarios, creando un ambiente desagradable o hostil en el servidor.
@@ -49,9 +47,6 @@ Acceso al servidor con el objetivo de iniciar un comportamiento altamente tóxic
 +++
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -4,11 +4,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-26
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Causar interrupciones constantes
 En este caso, se refiere a usuarios que generan perturbaciones continuas y repetitivas en las conversaciones dentro de un canal de voz, interfiriendo con la comunicación fluida y afectando la experiencia de los demás usuarios.
@@ -31,9 +29,6 @@ Interrupciones constantes a los usuarios presentes en el canal, impidiendo la co
 +++
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

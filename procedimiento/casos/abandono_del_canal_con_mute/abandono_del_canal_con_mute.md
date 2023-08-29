@@ -4,11 +4,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-23
 visibility: hidden
 ---
+[!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill" corners="pill"](../../../info/contenido_aprobado/contenido_aprobado.md)
 
 # Abandono del canal con mute
 Cuando estás emitiendo una advertencia, es altamente recomendable que silencies a los usuarios a quienes estás advirtiendo. Sin embargo, en ocasiones pueden abandonar el canal sin que les hayas quitado el mute. Aquí te presentamos unas pautas que puedes seguir si esto te sucede.
@@ -24,9 +22,7 @@ Una vez hayas informado de la situación, habrás dejado constancia de que el er
 Si el usuario no reaparece, deberá abrir un ticket para solicitar que se le levante el mute. Aprovecha esta oportunidad para reiterarle la importancia de no abandonar el canal durante una advertencia.
 
 <br><br><br>
-!!!success Contenido aprobado
-Este procedimiento ha sido aprobado el `25 AGOSTO DE 2023`.<br>
-Hasta instrucciones que indiquen lo contrario, este procedimiento es válido.
-
-Si este procedimiento ya no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este mensaje.
-!!!
+** **
+### Historial de cambios
+`2023-08-25` [!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill"](../../../info/contenido_aprobado/contenido_aprobado.md)<br>
+`2023-08-23` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

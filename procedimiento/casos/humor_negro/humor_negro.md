@@ -6,11 +6,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-29
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Humor negro
 El humor negro es un tema delicado y sensible que abordaremos con responsabilidad en nuestro servidor. Reconocemos que el humor puede variar en interpretación, pero es fundamental garantizar que nuestro ambiente sea respetuoso y cómodo para todos los usuarios. Aunque la intención puede ser humorística, ciertos chistes pueden herir a otros y no serán tolerados si cruzan límites.
@@ -42,9 +40,6 @@ Faltas de respeto persistentes pese a las advertencias previas:
 +++
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

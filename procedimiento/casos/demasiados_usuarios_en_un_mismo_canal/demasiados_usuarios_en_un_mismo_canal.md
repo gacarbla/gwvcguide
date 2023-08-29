@@ -4,11 +4,9 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, casos]
-date: 2023-08-27
 visibility: hidden
 ---
+[!button size="xs" variant="warning" text="No revisado" icon="alert" corners="pill"](../../../info/contenido_sin_revisar/contenido_sin_revisar.md)
 
 # Demasiados usuarios en un mismo canal
 Este caso se refiere a situaciones en canales personalizados donde los usuarios han permitido un número excesivo de participantes, lo que puede resultar en una experiencia caótica o poco manejable para todos los usuarios involucrados.
@@ -24,9 +22,6 @@ Es altamente recomendable avisar previamente a la destrucción del canal que de 
 Para destruír un canal de voz personalizado se podrá proceder de dos maneras. La primera y más evidente, es hacer uso del permiso de gestión de canales (`MANAGE_CHANNELS`) para eliminarlo. La segunda y requerida en la mayoría de casos, será el uso del comando `/mod vc channel`, a través del cuál podremos seleccionar la opción de "Desalojar canal" para desconectar a todos los integrantes del mismo. El canal será eliminado automáticamente por el bot una vez todos los usuarios sean desconectados.
 
 <br><br><br>
-!!!warning Contenido sin aprobar
-Este procedimiento aún no ha sido revisado y aprobado.<br>
-Consulte con un superior antes de seguirlo.
-
-Si este procedimiento no es válido, por favor contacte con [gacarbla](https://discord.com/users/643575943289634836) para solicitar la corrección de este contenido.
-!!!
+** **
+### Historial de cambios
+`2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
