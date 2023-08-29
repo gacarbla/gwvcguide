@@ -13,7 +13,7 @@ Tal y como su nombre indica, es una guía, no un manual.
 !!!
 
 !!!info Seguimos trabajando en esto
-Actualmente `12` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `H`.
+Actualmente `19` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `I`.
 !!!
 
 ### A
@@ -88,27 +88,27 @@ Cuando un usuario utiliza múltiples cuentas para eludir una sanción o vuelve a
 ==- Faltas de respeto
 En ocasiones, un usuario puede faltarle el respeto a otro por diversos motivos. Como moderadores, es nuestra responsabilidad poner fin a este tipo de comportamientos y asegurar que todos los usuarios puedan permanecer en el servidor sin temor a ser criticados, acusados o tratados con falta de respeto.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./faltas_de_respeto/faltas_de_respeto.md)
 ==-
 
 ### H
 ==- Huída de los moderadores
 Algunos usuarios huyen de los moderadores porque les dan miedo, porque les caen mal o simplemente porque quieren poder cometer actos contrarios a las normas sin poder ser supervisados. Te contamos un poco más a cerca de cómo puedes pillar a estos usuarios en los canales de voz.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./huída_de_los_moderadores/huída_de_los_moderadores.md)
 ==- Humor negro
 Es recurrente el humor negro en una comunidad digital, pero también muy importante saber los límites para éste y cómo actuar si nos encontramos con ciertos chistes que rozan la falta de respeto, aunque teniendo siempre en cuenta que evitaremos en la medida de lo posible llevar a cabo advertencias o sanciones, pues los usuarios estarán intentando pasar el rato, no intentan molestar.
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./humor_negro/humor_negro.md)
 ==-
 
 ### I
 ==- Ignorancia hacia las indicaciones de un moderador
-*Seguimos trabajando en esto...*
+Algunos usuarios muestran plena ignorancia hacia las indicaciones de los moderadores, sea persistiendo en un comportamiento contrario al reglamento o simplemente no acatando las recomendaciones. Te exponemos todo lo que debes saber de cómo actuar en estos casos.
 
 [!button variant="dark" text="Más información"]()
 ==- Inicio de eventos no autoriazdos
-*Seguimos trabajando en esto...*
+Ocasionalmente algunos usuarios deciden organizar eventos en los canales de voz personalizada. Deben tener presente que estos eventos corren a su cargo y no al del equipo de moderadores o el servidor siquiera. Te enseñamos cómo actuar en estos casos.
 
 [!button variant="dark" text="Más información"]()
 ==-
@@ -117,15 +117,15 @@ Es recurrente el humor negro en una comunidad digital, pero también muy importa
 ==- Menor de 13 años
 *Seguimos trabajando en esto...*
 
-[!button variant="dark" text="Más información"]()
-==- modificación ilegal de la APP de escritorio
+[!button variant="primary" text="Más información"](./menor_de_13_años/menor_de_13_años.md)
+==- Modificación ilegal de la APP de escritorio
 *Seguimos trabajando en esto...*
 
 [!button variant="dark" text="Más información"]()
 ==- Moduladores de voz
 *Seguimos trabajando en esto...*
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./moduladores_de_voz/moduladores_de_voz.md)
 ==-
 
 ### Q
@@ -139,8 +139,7 @@ Es recurrente el humor negro en una comunidad digital, pero también muy importa
 ==- Reportes falsos a usuarios
 *Seguimos trabajando en esto...*
 
-[!button variant="dark" text="Un único usuario"]()
-[!button variant="dark" text="Un grupo de usuarios"]()
+[!button variant="dark" text="Un único usuario"]() [!button variant="dark" text="Un grupo de usuarios"]()
 ==- Retransmisión de contenido audiovisual NSFW
 *Seguimos trabajando en esto...*
 
@@ -152,14 +151,14 @@ Es recurrente el humor negro en una comunidad digital, pero también muy importa
 ==- Ruidos molestos
 *Seguimos trabajando en esto...*
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./ruidos_molestos/ruidos_molestos.md)
 ==-
 
 ### S
 ==- Saturación del micrófono
 *Seguimos trabajando en esto...*
 
-[!button variant="dark" text="Más información"]()
+[!button variant="primary" text="Más información"](./saturación_del_micrófono/saturación_del_micrófono.md)
 ==- Spam directo
 *Seguimos trabajando en esto...*
 
