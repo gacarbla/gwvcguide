@@ -6,9 +6,6 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, primeros pasos]
-date: 2023-08-21
 ---
 
 # Acceso al canal
@@ -63,3 +60,8 @@ Siempre que hables desde tu papel de moderador al llevar a cabo tareas de contro
 **❌ Incorrecto:**<br>
 > Por favor &lt;usuario>, ese lenguaje puede ser altamente ofensivo para algunos usuarios, por esto debo pedirle que intente evitar el uso de este en los canales de voz del servidor.
 ===
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br>
+`2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

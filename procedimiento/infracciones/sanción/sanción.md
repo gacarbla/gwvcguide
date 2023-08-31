@@ -4,9 +4,6 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, infracciones, sanciones]
-date: 2023-08-21
 ---
 # Sanción
 Existen varios tipos de sanciones disponibles, y cada una de ellas se adaptará a una violación específica de las normas.
@@ -39,3 +36,8 @@ Aplicarás este formato en las situaciones más críticas, cuando la seguridad d
 
 [!button variant="primary" text="Más información"](./ban/ban.md)
 ===
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
+`2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

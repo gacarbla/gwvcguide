@@ -39,6 +39,6 @@ Reproducción de audios molestos en los canales de voz pese a las advertencias p
 
 <br><br><br>
 ** **
-### Historial de cambios
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
 `2023-08-25` [!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill"](../../../info/contenido_aprobado/contenido_aprobado.md)<br>
 `2023-08-25` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

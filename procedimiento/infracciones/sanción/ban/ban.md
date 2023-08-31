@@ -6,9 +6,6 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, infracciones, sanciones]
-date: 2023-08-22
 ---
 # Ban
 
@@ -47,3 +44,8 @@ u!ban <id> <razón> \|\| ¿Cree que su sanción es injusta? [Haga click aquí](h
 ```
 > **Incumplimiento de las ToS:** No cumplir con la edad mínima para ingresar a la plataforma. \|\| ¿Cree que su sanción es injusta? [Haga click aquí](https://discord.gg/8X3GKQsxJh)
 +++
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
+`2023-08-22` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

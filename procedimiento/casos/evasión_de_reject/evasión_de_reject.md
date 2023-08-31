@@ -29,5 +29,5 @@ Usted ha abandonado el servidor y reingresado al mismo para evadir así el veto 
 
 <br><br><br>
 ** **
-### Historial de cambios
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
 `2023-08-28` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

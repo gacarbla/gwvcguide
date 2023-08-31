@@ -9,9 +9,6 @@ authors:
   - name: rawrrr_blue.
     link: https://discord.com/users/729428993174143017
     avatar: ../../../profiles/rawrrr.jpg
-category: []
-tags: [voicechats, primeros pasos, infracciones, advertencias]
-date: 2023-08-21
 ---
 # Advertencia
 
@@ -44,3 +41,8 @@ Al agregar y eliminar la función de silencio, se registra la información en lo
 !!!warning ¡CUIDADO!
 Si las preguntas de los usuarios se vuelven demasiado prolongadas y afectan la temática del canal o la conversación se convierte en un debate sobre la moderación, es apropiado intervenir para poner fin al tema y comunicar a los usuarios que futuras preguntas o quejas serán abordadas a través de tickets.
 !!!
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
+`2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

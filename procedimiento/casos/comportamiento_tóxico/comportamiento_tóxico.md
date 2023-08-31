@@ -48,5 +48,5 @@ Acceso al servidor con el objetivo de iniciar un comportamiento altamente tóxic
 
 <br><br><br>
 ** **
-### Historial de cambios
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
 `2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

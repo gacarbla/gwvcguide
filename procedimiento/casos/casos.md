@@ -14,7 +14,7 @@ Los procedimientos rechazados **NO DEBEN SEGUIRSE**, los aún no revisados deben
 !!!
 
 !!!light Seguimos trabajando en esto
-Actualmente `20` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `I`.
+Actualmente `20` página(s) de información están completas y puedes ver el resumen de situación de los casos hasta la letra `M`.
 !!!
 
 ### A
@@ -115,24 +115,24 @@ Ocasionalmente algunos usuarios deciden organizar eventos en los canales de voz 
 [!button variant="dark" text="Más información"]()
 ==-
 
-!!!danger Hasta aquí hemos llegado...
-A partir de este punto todos los artículos están incompletos o carentes de corrección.<br>Por favor, no sigas al pié de la letra los procedimientos expuestos a partir de este punto.
-!!!
-
 ### M
 ==- Menor de 13 años
-*Seguimos trabajando en esto...*
+Algunos usuarios no conocen o no cumplen las [ToS de Discord](https://discord.com/terms) y acceden al servidor pese a no cumplir con la edad mínima requerida. Te mostramos cómo identificarlos y cómo proceder en estos casos.
 
 [!button variant="primary" text="Más información"](./menor_de_13_años/menor_de_13_años.md)
 ==- Modificación ilegal de la APP de escritorio
-*Seguimos trabajando en esto...*
+Existen complementos como BetterDiscord que modifican el aspecto y/o funcionalidades de la aplicación de escritorio de Discord. ¿Debemos hacer algo en estos casos? ¿El qué?
 
 [!button variant="dark" text="Más información"]()
 ==- Moduladores de voz
-*Seguimos trabajando en esto...*
+Con el tiempo te darás de cuenta de los muchos usuarios que utilizan modulares de voz en los canales públicos, y algunos de ellos lo harán por las bromas o por molestar incluso. Aquí tienes una pequeña explicación de cuándo proceder y cómo.
 
 [!button variant="primary" text="Más información"](./moduladores_de_voz/moduladores_de_voz.md)
 ==-
+
+!!!danger Hasta aquí hemos llegado...
+A partir de este punto todos los artículos están incompletos o carentes de corrección.<br>Por favor, no sigas al pié de la letra los procedimientos expuestos a partir de este punto.
+!!!
 
 ### Q
 ==- Queja en público

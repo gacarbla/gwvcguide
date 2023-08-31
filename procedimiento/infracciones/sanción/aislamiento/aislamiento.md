@@ -6,9 +6,6 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, infracciones, sanciones]
-date: 2023-08-22
 ---
 # Aislamiento
 
@@ -45,3 +42,8 @@ u!warn <id> **AISLAMIENTO DE <tiempo> HORAS** \|\| <razón>
 ```
 > **AISLAMIENTO DE 1 HORA** \|\| Reproducción de contenido con derechos de autor en los canales de voz pese a la advertencia previa.
 +++
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
+`2023-08-22` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -4,9 +4,6 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, infracciones, sanciones, advertencias]
-date: 2023-08-21
 ---
 # Infracciones
 De vez en cuando, es posible que los usuarios no cumplan con las normas establecidas en el servidor. Para prevenir la repetición de estos comportamientos, el equipo de moderadores cuenta con dos herramientas efectivas: la advertencia y la sanción. Utilizaremos cada una de ellas en situaciones distintas y necesitaremos desarrollar nuestro propio juicio para aplicarlas. Dado que no es factible cubrir todas las posibles circunstancias, se proporciona una guía que deberá ajustarse según lo que mejor se adapte a cada situación.
@@ -18,3 +15,8 @@ Una advertencia es una comunicación formal dirigida a un usuario que ha violado
 Una sanción se refiere a una medida disciplinaria aplicada a un usuario que ha infringido repetidamente las normas del servidor o ha cometido una infracción grave. Las sanciones pueden variar en severidad y pueden incluir desde restricciones temporales hasta la expulsión permanente del servidor.<br><br>
 [!button variant="primary" text="Más información"](./sanción/sanción.md)
 ===
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
+`2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

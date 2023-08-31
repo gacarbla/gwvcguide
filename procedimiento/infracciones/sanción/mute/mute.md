@@ -6,9 +6,6 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../../../../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, infracciones, sanciones]
-date: 2023-08-21
 ---
 # Mute
 ## Definición
@@ -62,3 +59,8 @@ u!warn <id> **MUTE DE <tiempo> HORAS** \|\| <razón> \|\| Una vez el tiempo de s
 !!!info De 3 en 3
 Al aplicar un mute, se añadirá una duración de 3 horas a la sanción anterior.<br>Por ejemplo, si su sanción previa en el canal de voz era de 6 horas, ahora serán 9 horas. Sin embargo, si no tiene ninguna sanción previa, la duración será de solo 3 horas.
 !!!
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
+`2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

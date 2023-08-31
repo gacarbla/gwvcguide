@@ -4,9 +4,6 @@ authors:
   - name: gacarbla
     link: https://discord.com/users/643575943289634836
     avatar: ../profiles/gacarbla.jpg
-category: []
-tags: [voicechats, primeros pasos]
-date: 2023-08-21
 ---
 # Procedimiento
 
@@ -36,3 +33,8 @@ Si no, también puedes ver los siguientes apartados:
 ¿Quieres ver cómo se suele actuar? ¿A qué esperas? ¡Vamos!<br><br>
 [!button variant="primary" text="Ir al artículo"](./casos/casos.md)
 ==-
+
+<br><br><br>
+** **
+**HISTORIAL DE CAMBIOS**<br><br> de cambios
+`2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
