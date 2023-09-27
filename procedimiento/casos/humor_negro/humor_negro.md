@@ -41,5 +41,5 @@ Faltas de respeto persistentes pese a las advertencias previas:
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

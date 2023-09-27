@@ -47,5 +47,5 @@ u!ban <id> <razón> \|\| ¿Cree que su sanción es injusta? [Haga click aquí](h
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-22` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -23,6 +23,6 @@ Si el usuario no reaparece, deberá abrir un ticket para solicitar que se le lev
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br>
 `2023-08-25` [!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill"](../../../info/contenido_aprobado/contenido_aprobado.md)<br>
 `2023-08-23` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

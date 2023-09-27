@@ -41,5 +41,5 @@ Acceso al servidor con el objetivo de iniciar un desorden en los canales de voz,
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-28` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

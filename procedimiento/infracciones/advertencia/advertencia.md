@@ -44,5 +44,5 @@ Si las preguntas de los usuarios se vuelven demasiado prolongadas y afectan la t
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

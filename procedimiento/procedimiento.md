@@ -36,5 +36,5 @@ Si no, también puedes ver los siguientes apartados:
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br>
 `2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -26,5 +26,5 @@ Para destruír un canal de voz personalizado se podrá proceder de dos maneras. 
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

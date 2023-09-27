@@ -45,5 +45,5 @@ u!warn <id> **AISLAMIENTO DE <tiempo> HORAS** \|\| <razón>
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-22` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -39,5 +39,5 @@ Aplicarás este formato en las situaciones más críticas, cuando la seguridad d
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

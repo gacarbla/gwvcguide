@@ -38,5 +38,5 @@ Divulgación de información de carácter personal sensible sin consentimiento p
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-28` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

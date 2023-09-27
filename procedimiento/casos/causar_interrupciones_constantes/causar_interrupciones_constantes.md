@@ -30,5 +30,5 @@ Interrupciones constantes a los usuarios presentes en el canal, impidiendo la co
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

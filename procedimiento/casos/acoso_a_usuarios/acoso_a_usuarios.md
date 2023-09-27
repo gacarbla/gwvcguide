@@ -28,6 +28,6 @@ No existe un procedimiento exacto, ya que cada situación exigirá una respuesta
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-25` [!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill"](../../../info/contenido_aprobado/contenido_aprobado.md)<br>
 `2023-08-24` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -41,6 +41,6 @@ Estos casos son sumamente difíciles de identificar. Pueden notarse al observar 
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-27` [!button size="xs" variant="success" text="Aprobado" icon="check-circle-fill"](../../../info/contenido_aprobado/contenido_aprobado.md)<br>
 `2023-08-26` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

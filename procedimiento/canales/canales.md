@@ -30,7 +30,7 @@ Solo en el caso de que el canal sea privado (no puedas ingresar con tus permisos
 ===
 
 <br><br><br>
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br>
 ** **
 `2023-08-30` [!button size="xs" variant="primary" text="Actualizado" icon="issue-draft"]<br>
 `2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

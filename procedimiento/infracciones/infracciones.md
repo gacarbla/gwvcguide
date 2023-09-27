@@ -18,5 +18,5 @@ Una sanción se refiere a una medida disciplinaria aplicada a un usuario que ha 
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -62,6 +62,6 @@ Al aplicar un mute, se multiplcará la duración por 3 a la duración de la sanc
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br>
 `2023-09-27` [!button size="xs" variant="primary" text="Actualizado" icon="issue-draft"]<br>
 `2023-08-21` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]

@@ -32,5 +32,5 @@ Persistentes faltas de respeto pese a la advertencia previa del equipo de modera
 
 <br><br><br>
 ** **
-**HISTORIAL DE CAMBIOS**<br><br> de cambios
+**HISTORIAL DE CAMBIOS**<br><br> 
 `2023-08-29` [!button size="xs" variant="primary" text="Redactado" icon="pencil"]
