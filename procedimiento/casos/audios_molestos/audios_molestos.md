@@ -16,8 +16,8 @@ Primero será de gran importancia entender que hablamos de un audio, no de un so
 ## Actuación
 Seguiremos el protocolo de advertencias y emitiremos una advertencia inicial, de acuerdo con el procedimiento establecido. Si el uso de estos audios persiste, podemos considerar o no una segunda advertencia. Después de esto, aplicaremos la sanción correspondiente en forma de mute.
 
-!!!info De 3 en 3
-Recuerda que al aplicar un mute, se añadirá una duración de 3 horas a la sanción anterior.<br>Por ejemplo, si su sanción previa en el canal de voz era de 6 horas, ahora serán 9 horas. Sin embargo, si no tiene ninguna sanción previa, la duración será de solo 3 horas.
+!!!info Y lo elevo a 3...
+Al aplicar un mute, se multiplcará la duración por 3 a la duración de la sanción anterior.<br>Por ejemplo, si su sanción previa en el canal de voz era de 9 horas, ahora serán 27 horas. Sin embargo, si no tiene ninguna sanción previa, la duración será de solo 3 horas.
 !!!
 
 ## Ejemplo de sanción
